@@ -13,7 +13,7 @@
 
 ![](img/3.png)
 
-### 配置文件
+### 配置
 ```js
 // 用于触发重新加载的命令
 const reloadCommand = "asreload";
